@@ -2,6 +2,7 @@
 	margin: 0;
 	padding: 0;
 	font-family: 'poppins',sans-serif;
+
 	
 }
 nav{
@@ -98,8 +99,10 @@ a:hover{
 	border:1px solid  #00ccff;
 	border-radius: 5px;
 	box-shadow: 3px 3px  #00ccff;
-	margin: 2% 5% 0px 1%;
-	padding: 2%;
+	margin: 2% 5% 0px 5%;
+	padding: 3% 1% 1% 1%;
+	width:400px;
+	height: 170px;
 	
 
 }
@@ -107,31 +110,47 @@ a:hover{
 	border:1px solid  #00ccff;
 	border-radius: 5px;
 	box-shadow: 3px 3px  #00ccff;
-	margin: 2% 5% 0px 1%;
-	padding: 2% ;
+	margin: 2% 5% 0px 5%;
+	padding: 3% 1% 1% 1% ;
+	width:400px;
+	height: 170px;
 
 }
 .sslc{
 	border:1px solid  #00ccff;
 	border-radius: 5px;
 	box-shadow: 3px 3px  #00ccff;
-	margin: 2% 5% 3% 1%;
-	padding: 2%;
+	margin: 2% 5% 0px 5%;
+	padding: 3% 1% 1% 1%;
+	width:400px;
+	height: 170px;
+
+}
+.extra{
+	border:1px solid  #00ccff;
+	border-radius: 5px;
+	box-shadow: 3px 3px  #00ccff;
+	margin: 2% 5% 0px 5%;
+	padding: 3% 1% 1% 1%;
+	width:400px;
+	height: 170px;
+
 
 }
 .aboutme{
-	display: flex;
-	justify-content: space-around;
+	display:flex;
+	justify-content: space-evenly;
 	flex-wrap: wrap;
-	
 }
 .me{
 	display: flex;
 	justify-content: center;
 	margin: 16.5% 2% 3% 0px;
+	border:"1px solid white";
+	padding: 50px 0px 0px 0px;
 }
 .h3{
-	
+	padding: 0px 0px 3% 0px;
 	margin: 0px 0px 2% 0px;
 	color:  #00ccff;
 }
