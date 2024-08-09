@@ -43,8 +43,8 @@ a:hover{
 	box-shadow:  0 10px #800080 ,0 0 30px #00ccff,0 0 60px #800080,0 0 90px #00ccff,0 0 100px #00ccff;
 }
 .icon1,.icon2,.icon3,.icon4,.icon5{
-	margin: 0px 1% 0px 0px;
-	padding: 0.5%;
+	margin: 0px 1.5% 0px 0px;
+	padding: 2px 1px 0px 1px;
 	border: 1px solid #00ccff;
 	border-radius: 50%;
 	background-color:white ;
